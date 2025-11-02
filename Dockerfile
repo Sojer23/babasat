@@ -1,1 +1,1 @@
-FROM facturascripts/facturascripts:latest
+FROM facturascripts/facturascripts:2025.43
