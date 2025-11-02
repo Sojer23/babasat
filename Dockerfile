@@ -1,1 +1,1 @@
-FROM facturascripts/facturascripts
+FROM facturascripts/facturascripts:latest
